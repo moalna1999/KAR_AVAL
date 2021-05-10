@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black",
+    "activestate.promptRuntimeCreation": false
+}
